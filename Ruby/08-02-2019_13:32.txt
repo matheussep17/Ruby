@@ -1,0 +1,6 @@
+pt: oi meu nome
+
+en: hi, my name is
+pt: olha nao estou afim de fazer esse curso muita coisa estou ficando louco
+
+en: look, I'm not willing to do it a lot, I'm going crazy
